@@ -63,3 +63,5 @@ nunit-*.xml
 *.db-shm
 *.db-wal
 *.v2
+*.bin
+KafkaPipelineApp/.vs/KafkaPipelineApp.slnx/copilot-chat/434ddcc2/sessions/33d190f5-1143-4eb3-8df1-9d60d525d99b
